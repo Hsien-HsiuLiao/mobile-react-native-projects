@@ -2,7 +2,7 @@
 
 https://github.com/Hsien-HsiuLiao/mern-exercise-tracker
 
-https://github.com/Hsien-HsiuLiao/react-quiz
+https://github.com/Hsien-HsiuLiao/react-quiz (Typescript)
 
 https://github.com/Hsien-HsiuLiao/react-todo
 
